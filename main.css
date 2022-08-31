@@ -129,12 +129,13 @@ margin-top: 35%;
 
 .card-wrapper{
     display: flex;
-  justify-content: space-between;
+  justify-content: center;
   gap: 20px;
 }
 
 .shop-section{
 padding-top: 200px;
+padding-bottom: 150px;
 }
 
 .card-item{
@@ -171,3 +172,23 @@ padding-top: 200px;
     font-size: large;
     color:#fff
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+    background-color: rgba(255, 38, 41, 0.582);
+}
+
+.signin {
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+
+/*  */
+.form-group {
+    display: block;
+    justify-content: center;
+}
+/*  */
